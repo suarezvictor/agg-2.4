@@ -6,7 +6,7 @@ Anti-Grain Geometry has dual licensing model. The Modified BSD
 License was first added in version v2.4 just for convenience.
 It is a simple, permissive non-copyleft free software license, 
 compatible with the GNU GPL. It's well proven and recognizable.
-See http://www.fsf.org/licensing/licenses/index_html#ModifiedBSD
+See https://directory.fsf.org/wiki/License:BSD-3-Clause
 for details.
 
 Note that the Modified BSD license DOES NOT restrict your rights 
